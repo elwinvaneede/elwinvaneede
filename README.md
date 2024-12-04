@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hi there! I'm Elwin van Eede</h3>
 <p align="center">
-  <a href="https://mas.to/@elwinvaneede">Mastodon</a> •
+  <a href="https://bsky.app/profile/elwinvaneede.com">Bluesky</a> •
   <a href="https://elwinvaneede.com">Website</a>
 </p>
 
@@ -10,5 +10,5 @@
 I live in Utrecht, the Netherlands and currently work at Nordhealth.
 
 - 😄 Pronouns: He/Him
-- 🌱 Currently learning: Deep dive into CSS with [CSS for JavaScript Developers](https://css-for-js.com/)
-- 📫 How to reach me: [Mastodon](https://mas.to/@elwinvaneede), [LinkedIn](https://www.linkedin.com/in/elwinvaneede/)
+- 🌱 Currently learning: [Practical Accessibility](https://practical-accessibility.today/)
+- 📫 How to reach me: [Bluesky](https://bsky.app/profile/elwinvaneede.com), [Mastodon](https://mas.to/@elwinvaneede), [LinkedIn](https://www.linkedin.com/in/elwinvaneede/)
